@@ -1,5 +1,9 @@
 IoT Based Car Parking System
 
+Hardware Setup
+
+![Hardware Setup](image iot.jpg)
+
 This project is a smart parking management system developed using ESP8266 NodeMCU, IR sensors, Blynk IoT platform, and Arduino IDE.
 
 Features
@@ -29,4 +33,4 @@ Project Files
 
 Working
 
-The IR sensors detect whether a parking slot is occupied or empty. The ESP8266 reads the sensor data and sends the parking status to the Blynk IoT platform through Wi-Fi. Users can monitor the availability of parking slots in real time using the Blynk mobile application.
+The IR sensors detect whether a parking slot is occupied or empty. The ESP8266 reads the sensor data and sends the parking status to the Blynk IoT platform through Wi-Fi. Users can monitor parking slot availability in real time using the Blynk mobile application.
