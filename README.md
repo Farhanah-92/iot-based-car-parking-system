@@ -2,7 +2,7 @@ IoT Based Car Parking System
 
 Hardware Setup
 
-![Hardware Setup](image iot.jpeg)
+![Hardware Setup](image-iot.jpeg)
 
 This project is a smart parking management system developed using ESP8266 NodeMCU, IR sensors, Blynk IoT platform, and Arduino IDE.
 
